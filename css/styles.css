@@ -119,15 +119,8 @@ body{
 /* ============== Hero Section styles ==============*/
 .hero{
     background: #2e2f42;
-    margin-bottom: 60px;
     padding: 188px 0;
     
-}
-.hero-container{
-    padding-top: 188px;
-    padding-bottom: 292px;
-    padding-right: 487px;
-    padding-left: 487px;
 }
 
 .main-title{
@@ -142,6 +135,7 @@ body{
         margin-bottom: 48px;
         margin-right: auto;
         margin-left: auto;
+        text-align: center;
 }
 .btn{
     font-weight: 500;
@@ -181,8 +175,6 @@ margin-right: auto;
     padding-bottom: 120px;
 }
 .benefits{
-    margin-top: 60px;
-    margin-bottom: 60px;
     padding: 120px 0;
 }
 
@@ -227,8 +219,6 @@ margin-right: auto;
 /* ============== Team Section styles ==============*/
 .team-section{
     background: #f4f4fd;
-    margin-top: 60px;
-    margin-bottom: 60px;
     padding: 120px 0;
 }
 .team-list{
@@ -267,8 +257,6 @@ margin-right: auto;
 
 /* ==============Portfolio styles ==============*/
 .portfolio{
-    margin-top: 60px;
-    margin-bottom: 60px;
     padding-top: 120px;
     padding-bottom: 120px;
 }
@@ -306,7 +294,6 @@ margin-right: auto;
 background: #2e2f42;
 padding-top: 100px;
 padding-bottom: 100px;
-margin-top: 60px;
 }
 .logo-footer{
         font-family: "Raleway", sans-serif;
@@ -327,6 +314,7 @@ margin-top: 60px;
         line-height: 1.5;
         color: #f4f4fd;
         letter-spacing: 0.02em;
+        max-width: 264px;
 }
 
 /* ==============/Page Footer styles ==============*/
